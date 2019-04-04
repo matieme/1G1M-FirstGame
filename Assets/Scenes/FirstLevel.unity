@@ -215,6 +215,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -280,6 +285,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!4 &59853757 stripped
@@ -299,6 +314,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -365,6 +385,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!1001 &66585466
@@ -378,6 +408,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -443,6 +478,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -749,6 +794,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -814,6 +864,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!4 &146614776 stripped
@@ -833,6 +893,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -872,7 +937,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 114
+      value: 91
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -898,6 +963,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -1016,6 +1091,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1081,6 +1161,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!1001 &181884206
@@ -1094,6 +1184,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -1159,6 +1254,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -1362,6 +1467,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1400,7 +1510,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 117
+      value: 92
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -1427,6 +1537,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!4 &219908310 stripped
@@ -1446,6 +1566,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -1485,7 +1610,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 112
+      value: 89
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -1511,6 +1636,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -1799,6 +1934,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1837,7 +1977,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 82
+      value: 77
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -1863,6 +2003,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -1928,7 +2078,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9901026a9b2576541a8949be557fd1f0, type: 2}
+  - {fileID: 2100000, guid: d8a41695630c488408bd9299af417bb7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2158,6 +2308,72 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 869907167}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &320332735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 320332738}
+  - component: {fileID: 320332737}
+  - component: {fileID: 320332736}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &320332736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320332735}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &320332737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320332735}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &320332738
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320332735}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &323902652
 GameObject:
   m_ObjectHideFlags: 0
@@ -2261,6 +2477,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2299,7 +2520,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 118
+      value: 93
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -2325,6 +2546,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -2589,6 +2820,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2627,7 +2863,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 109
+      value: 86
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -2653,6 +2889,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -2728,16 +2974,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2240093677760859099, guid: 552f2afc6af2549468b37f5f83657c37,
-        type: 3}
-      propertyPath: m_Constraints
-      value: 112
-      objectReference: {fileID: 0}
-    - target: {fileID: 2240093677760859099, guid: 552f2afc6af2549468b37f5f83657c37,
-        type: 3}
-      propertyPath: m_UseGravity
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 552f2afc6af2549468b37f5f83657c37, type: 3}
@@ -2947,6 +3183,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3011,6 +3252,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -3117,6 +3368,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3155,7 +3411,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 96
+      value: 78
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -3182,6 +3438,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!4 &517470563 stripped
@@ -3201,6 +3467,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -3267,6 +3538,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!1001 &536093294
@@ -3280,6 +3561,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -3345,6 +3631,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -3548,6 +3844,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3612,6 +3913,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -3718,6 +4029,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3782,6 +4098,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -3894,6 +4220,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3932,7 +4263,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 80
+      value: 76
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -3958,6 +4289,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -4513,6 +4854,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4551,7 +4897,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 98
+      value: 80
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -4577,6 +4923,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -4755,11 +5111,6 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 0}
-    - target: {fileID: 6367165298470255740, guid: 344724aa0200b3d44b3074967e692268,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!4 &819993542 stripped
@@ -4785,6 +5136,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -4824,7 +5180,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 123
+      value: 96
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -4850,6 +5206,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -4956,6 +5322,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5021,6 +5392,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!4 &916597681 stripped
@@ -5052,6 +5433,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -5091,7 +5477,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 106
+      value: 83
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -5117,6 +5503,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -5411,6 +5807,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5476,6 +5877,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!1001 &1139733044
@@ -5489,6 +5900,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -5554,6 +5970,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -5660,6 +6086,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5725,6 +6156,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!4 &1160242453 stripped
@@ -5744,6 +6185,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -5809,6 +6255,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -6006,6 +6462,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6070,6 +6531,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -6231,6 +6702,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6296,6 +6772,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!1001 &1228705551
@@ -6309,6 +6795,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (75)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -6348,7 +6839,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 119
+      value: 94
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -6374,6 +6865,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -6406,6 +6907,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -6445,7 +6951,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 77
+      value: 75
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -6472,6 +6978,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!4 &1346866915 stripped
@@ -6491,6 +7007,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -6530,7 +7051,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 122
+      value: 95
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -6557,6 +7078,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!4 &1427249618 stripped
@@ -6576,6 +7107,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -6615,7 +7151,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 108
+      value: 85
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -6641,6 +7177,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -6736,6 +7282,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6801,6 +7352,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!1001 &1500747353
@@ -6814,6 +7375,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -6880,6 +7446,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!1001 &1548136345
@@ -6893,6 +7469,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -6932,7 +7513,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 113
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -6959,6 +7540,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!1001 &1548820750
@@ -6972,6 +7563,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -7038,6 +7634,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!1001 &1559347524
@@ -7051,6 +7657,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -7116,6 +7727,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -7228,6 +7849,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7292,6 +7918,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -7568,6 +8204,7 @@ Transform:
   - {fileID: 1625252557}
   - {fileID: 59853757}
   - {fileID: 219908310}
+  - {fileID: 517470563}
   - {fileID: 1976357076}
   - {fileID: 1680997112}
   - {fileID: 1264031728}
@@ -7586,7 +8223,6 @@ Transform:
   - {fileID: 342316379}
   - {fileID: 747135876}
   - {fileID: 312900077}
-  - {fileID: 517470563}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -7601,6 +8237,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -7667,6 +8308,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!4 &1680997112 stripped
@@ -7686,6 +8337,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -7725,7 +8381,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 110
+      value: 87
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -7752,6 +8408,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!4 &1685671051 stripped
@@ -7777,6 +8443,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -7842,6 +8513,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -7954,6 +8635,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (67)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7992,7 +8678,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 111
+      value: 88
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -8018,6 +8704,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -8130,6 +8826,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8168,7 +8869,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 104
+      value: 81
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -8194,6 +8895,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -8300,6 +9011,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8364,6 +9080,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -8470,6 +9196,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8508,7 +9239,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 105
+      value: 82
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -8535,6 +9266,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!1001 &1910136501
@@ -8548,6 +9289,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -8587,7 +9333,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 107
+      value: 84
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -8613,6 +9359,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -8684,7 +9440,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9901026a9b2576541a8949be557fd1f0, type: 2}
+  - {fileID: 2100000, guid: 83ac841a54d9a0f4982562deddead6bc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8883,6 +9639,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8921,7 +9682,7 @@ PrefabInstance:
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_RootOrder
-      value: 97
+      value: 79
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -8947,6 +9708,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -9168,6 +9939,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShadowEffect (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9233,6 +10009,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
 --- !u!1001 &2060533462
@@ -9246,6 +10032,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -9311,6 +10102,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
@@ -9583,6 +10384,79 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4776d9ab88f8b9e4daa2bf0f7ea6a2da, type: 3}
+--- !u!1001 &4125652969718906960
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4125652969434386078, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_Name
+      value: LightEmitter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125652969434386051, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125652969434386051, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.129
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125652969434386051, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125652969434386051, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125652969434386051, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125652969434386051, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125652969434386051, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125652969434386051, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125652969434386051, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125652969434386051, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125652969434386051, guid: 2fd0856e86c19f34c95268b41044e082,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 191453314, guid: 2fd0856e86c19f34c95268b41044e082, type: 3}
+      propertyPath: mainCamera
+      value: 
+      objectReference: {fileID: 2042566324}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2fd0856e86c19f34c95268b41044e082, type: 3}
 --- !u!1001 &5391451383346155518
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9594,6 +10468,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ShadowEffect (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298535701783, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6367165298535701780, guid: 344724aa0200b3d44b3074967e692268,
         type: 3}
@@ -9659,6 +10538,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298470255743, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6367165298796429613, guid: 344724aa0200b3d44b3074967e692268,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 344724aa0200b3d44b3074967e692268, type: 3}
