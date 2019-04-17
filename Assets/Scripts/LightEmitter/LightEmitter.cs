@@ -8,17 +8,23 @@ public class LightEmitter : MonoBehaviour
 { 
     public GameObject collider;
     private Action turnEnded;
-
-    private bool isRotating;
+    public GameObject turnGraphics;
+    public GameObject activateGraphics;
 
     public List<GameObject> darkDisabledObjects;
 
     public KeyCode rightKey;
     public KeyCode LeftKey;
+    public KeyCode fireKey;
 
     public ProximityTrigger proximityChecker;
 
+    public Animator activeFire;
+
     private bool isPlayerInRange;
+    private bool isRotating;
+    private bool imActive;
+    private bool canActivate;
 
     private void Start()
     {
@@ -31,13 +37,30 @@ public class LightEmitter : MonoBehaviour
     {
         if(!isRotating && isPlayerInRange)
         {
-            if (Input.GetKeyDown(rightKey))
+            if (imActive)
             {
-                StartCoroutine(RotateAround(Vector3.up, 90.0f, 1.0f));
+                if (Input.GetKeyDown(rightKey))
+                {
+                    StartCoroutine(RotateAround(Vector3.up, 90.0f, 1.0f));
+                }
+                if (Input.GetKeyDown(LeftKey))
+                {
+                    StartCoroutine(RotateAround(Vector3.up, -90.0f, 1.0f));
+                }
             }
-            if (Input.GetKeyDown(LeftKey))
+
+            if (!canActivate && imActive && !Character.Instance.PlayerHasFire)
             {
-                StartCoroutine(RotateAround(Vector3.up, -90.0f, 1.0f));
+                if (Input.GetKeyDown(fireKey))
+                {
+                    DeActivateLightEmitter();
+                }
+            }else if (canActivate && Character.Instance.PlayerHasFire)
+            {
+                if (Input.GetKeyDown(fireKey))
+                {
+                    ActivateLightEmitter();
+                }
             }
         }
     }
@@ -57,15 +80,59 @@ public class LightEmitter : MonoBehaviour
     private void PlayerInRange(Collider obj)
     {
         isPlayerInRange = true;
+
+        if(imActive){
+            turnGraphics.SetActive(true);
+        }
+        else{
+            if(Character.Instance.PlayerHasFire)
+            {
+                activateGraphics.SetActive(true);
+                canActivate = true;
+            }    
+        }
     }
 
     private void PlayerOutOfRange(Collider obj)
     {
         isPlayerInRange = false;
+
+        if (imActive){
+            turnGraphics.SetActive(false);
+        }
+        else{
+            activateGraphics.SetActive(false);
+        }
+    }
+
+    public void ReActivateLightEmitter()
+    {
+        ActivateLightEmitter();
+    }
+
+    private void ActivateLightEmitter()
+    {
+        imActive = true;
+        canActivate = false;
+        activateGraphics.SetActive(false);
+        turnGraphics.SetActive(true);
+        activeFire.SetTrigger("Play");
+        Character.Instance.PlayerLeftFire();
+    }
+
+    private void DeActivateLightEmitter()
+    {
+        imActive = false;
+        canActivate = true;
+        activateGraphics.SetActive(true);
+        turnGraphics.SetActive(false);
+        activeFire.SetTrigger("Stop");
+        Character.Instance.PlayerGetsFire(this);
     }
 
     IEnumerator RotateAround(Vector3 axis, float angle, float duration)
     {
+        EZCameraShake.CameraShaker.Instance.ShakeOnce(0.3f, 8f, 0.1f, 2.6f);
         DeActivateCollider();
         ReactivatePreviousDarkZone();
 

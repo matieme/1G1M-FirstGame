@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class ProximityTrigger : MonoBehaviour
 {
-
     public enum Layers { Dark, Player};
     public Layers layer;
 
