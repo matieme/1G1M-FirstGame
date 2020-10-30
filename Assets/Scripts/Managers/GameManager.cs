@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 namespace Managers
@@ -17,11 +18,24 @@ namespace Managers
         float currCountdownValue;
         public float countDownValue;
 
+        public ProximityTrigger deathZone;
+        public EndLevelManager endLevelManager;
+
+        public FlyingFire flyingFirePrefab;
+        private FlyingFire flyingFire;
+
+        private List<StoneTypes> stonesBag;
+
+        public GameObject canvas;
+        public GameObject loadingCanvas;
+
         private void Awake()
         {
             pickUpStone += PickUpStone;
             Character.Instance.getFire += OnCharacterGetFire;
             Character.Instance.leftFire += OnCharacterLeftFire;
+            deathZone.triggerEnter += OnDeathZone;
+            stonesBag = new List<StoneTypes>();
         }
 
         private void Update()
@@ -40,9 +54,42 @@ namespace Managers
             currCountdownValue = 0;
         }
 
+        private void OnDeathZone(Collider obj)
+        {
+            Scene thisScene = SceneManager.GetActiveScene();
+            SceneManager.LoadScene(thisScene.buildIndex);
+        }
+
+        public void OnChangeScene(int scene)
+        {
+            canvas.SetActive(false);
+            loadingCanvas.SetActive(true);
+            StartCoroutine(ChangeSceneNow(scene, 1.5f));            
+        }
+
+        IEnumerator ChangeSceneNow(int scene, float timer)
+        {
+            yield return new WaitForSeconds(timer);
+            SceneManager.LoadScene(scene);
+        }
+
         private void PickUpStone(StoneTypes stoneType)
         {
             Debug.LogError(stoneType);
+            if(!stonesBag.Contains(stoneType))
+            {
+                stonesBag.Add(stoneType);
+            }
+
+            if (stonesBag.Count == 4){
+                stonesBag.Clear();
+                ActivatePortal();
+            }
+        }
+
+        private void ActivatePortal()
+        {
+            endLevelManager.Activate();
         }
 
         public void Subscribe(IObserver observer)
@@ -71,11 +118,22 @@ namespace Managers
                 Debug.LogError("DEVOLVER EL FUEGO");
                 if(Character.Instance.lastFirePosition!= null)
                 {
-                    Character.Instance.lastFirePosition.ReActivateLightEmitter();
-                    Character.Instance.leftFire();
+                    flyingFire = Instantiate(flyingFirePrefab);
+                    flyingFire.transform.position = Character.Instance.transform.position;
+                    flyingFire.Setup(Character.Instance.lastFirePosition.transform);
+                    flyingFire.OnFlyingFireArrive += ReActivateLightEmitter;
+                    Character.Instance.PlayerLeftFire();
+
                 }
             }
                 
+        }
+
+        private void ReActivateLightEmitter()
+        {
+            Character.Instance.leftFire();
+            Character.Instance.lastFirePosition.ReActivateLightEmitter();
+            flyingFire.OnFlyingFireArrive -= ReActivateLightEmitter;
         }
     }
 }

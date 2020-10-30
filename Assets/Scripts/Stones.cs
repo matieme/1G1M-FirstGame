@@ -9,12 +9,23 @@ public class Stones : MonoBehaviour
 
     public string layer = "Player";
 
+    public GameObject renderer;
+    public GameObject effect;
+
+    public AudioClip pickUpEffect;
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.layer == LayerMask.NameToLayer(layer))
         {
+            AudioSource audio = GetComponent<AudioSource>();
+            audio.clip = pickUpEffect;
+            audio.Play();
+
+            renderer.SetActive(false);
+            effect.SetActive(true);
             GameManager.Instance.pickUpStone(type);
-            Destroy(gameObject);
+            Destroy(gameObject,1);
         }
     }
 }

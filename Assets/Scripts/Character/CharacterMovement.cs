@@ -12,10 +12,12 @@ public class CharacterMovement : MonoBehaviour
     private Vector3 characterScale;
     private float characterScaleX;
 
+    public GameObject renderer;
+
     void Start()
     {
-        characterScale = transform.localScale;
-        characterScaleX = characterScale.x;
+        characterScale = renderer.transform.localScale;
+        characterScaleX = renderer.transform.localScale.x;
     }
 
     private void FixedUpdate()
@@ -36,7 +38,7 @@ public class CharacterMovement : MonoBehaviour
             characterScale.x = characterScaleX;
         }
 
-        transform.localScale = characterScale;
+        renderer.transform.localScale = characterScale;
     }
 
     public void MoveTransform(float x, float z)

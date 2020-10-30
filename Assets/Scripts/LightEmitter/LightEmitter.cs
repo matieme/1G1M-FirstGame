@@ -21,6 +21,9 @@ public class LightEmitter : MonoBehaviour
 
     public Animator activeFire;
 
+    public AudioClip fireEffect;
+    private AudioSource audioEmitter;
+
     private bool isPlayerInRange;
     private bool isRotating;
     private bool imActive;
@@ -31,6 +34,9 @@ public class LightEmitter : MonoBehaviour
         turnEnded += ActivateCollider;
         proximityChecker.triggerEnter += PlayerInRange;
         proximityChecker.triggerExit += PlayerOutOfRange;
+
+        audioEmitter = GetComponent<AudioSource>();
+        audioEmitter.clip = fireEffect;
     }
 
     public void Update()
@@ -118,6 +124,7 @@ public class LightEmitter : MonoBehaviour
         turnGraphics.SetActive(true);
         activeFire.SetTrigger("Play");
         Character.Instance.PlayerLeftFire();
+        audioEmitter.Play();
     }
 
     private void DeActivateLightEmitter()
